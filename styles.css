@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+/*Header Section*/
+#body-header{
+    height: 65vh;
+    opacity: 0.8;
+    background-image: url(images/macbook_mouse.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
